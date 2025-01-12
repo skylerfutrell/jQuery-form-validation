@@ -60,7 +60,8 @@ To add or modify form fields, edit the index.html file.
 To change validation rules or messages, edit the script.js file.
 To update styles, edit the styles.css file.
 
-Screenshots
+Screenshots:
+
 ![Mobile Form Design](/images/mobile-form-view.jpg) 
 ![Mobile Form Edit](/images/mobile-form-edit.jpg) 
 ![Mobile Form Error](/images/mobile-error.jpg)
