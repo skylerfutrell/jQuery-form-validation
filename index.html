@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Form Validation</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="/js/script.js" defer></script>
+</head>
+<body>
+    <!-- Note: The form does not currently submit data to a server because "action" is set to "#" -->
+
+    <div class="signup-container">
+        <h2 class="join">Keep up with us.</h2>
+        <form action="#" name="signup">
+            <label for="user-first-name">First Name</label>
+            <input 
+                type="text" 
+                name="userfirstname" 
+                id="user-first-name" 
+                placeholder="First Name" 
+                required>
+            
+            <label for="user-last-name">Last Name</label>
+            <input 
+                type="text" 
+                name="userlastname" 
+                id="user-last-name" 
+                placeholder="Last Name" 
+                required>
+            
+            <label for="user-age">Age</label>
+            <select name="userage" id="user-age" required>
+                <option value="" disabled selected>Select your age range</option>
+                <option value="16-18">16-18</option>
+                <option value="18-25">18-25</option>
+                <option value="25-30">25-30</option>
+                <option value="30-plus">Above 30</option>
+            </select>
+
+            <label for="user-zip">Zip Code</label>
+            <input 
+                type="text" 
+                name="userzip" 
+                id="user-zip" 
+                placeholder="Enter your ZIP code">
+            
+            <label for="user-email">Email</label>
+            <input 
+                type="email" 
+                name="useremail" 
+                id="user-email" 
+                placeholder="user@email.com" 
+                required>
+            
+            <label for="user-password">Password</label>
+            <input 
+                type="password" 
+                name="userpassword" 
+                id="user-password" 
+                placeholder="Enter your password" 
+                required>
+            
+            <label for="user-comment">Questions, Comments, Concerns</label>
+            <textarea 
+                id="user-comment" 
+                name="usercomment" 
+                rows="3" 
+                placeholder="Your message"></textarea>
+            
+            <button type="submit">Join Us</button>
+        </form>
+    </div><!--signup-container-->   
+</body>
+</html>
