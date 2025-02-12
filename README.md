@@ -64,12 +64,9 @@ The form includes the following fields:
 🎯 Future Improvements:
 
 🎨 Customization:
-
-To add or modify form fields, edit the index.html file.
-
-To change validation rules or messages, edit the script.js file.
-
-To update styles, edit the styles.css file.
+- To add or modify form fields, edit the index.html file.
+- To change validation rules or messages, edit the script.js file.
+- To update styles, edit the styles.css file.
 
 Screenshots:
 
