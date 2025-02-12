@@ -24,14 +24,15 @@ The application ensures that all required fields are correctly filled out before
   - Implements the validation logic using the jQuery Validation plugin.
 
 ⏳ Form Fields and Validation Rules:
+
 The form includes the following fields:
-First Name- Required field.
-Last Name- Required field.
-Email- Required field. Must follow a valid email format.
-Password- Required field. Must be at least 15 characters long.
-ZIP Code- Required field. Must be exactly 5 digits long. Only numeric values allowed.
-Age Group- Required field. Dropdown selection with predefined options.
-Comments- Optional field for user feedback.
+- First Name- Required field.
+- Last Name- Required field.
+- Email- Required field. Must follow a valid email format.
+- Password- Required field. Must be at least 15 characters long.
+- ZIP Code- Required field. Must be exactly 5 digits long. Only numeric values allowed.
+- Age Group- Required field. Dropdown selection with predefined options.
+- Comments- Optional field for user feedback.
 
 🏁 Getting Started: 
 
@@ -63,8 +64,11 @@ Comments- Optional field for user feedback.
 🎯 Future Improvements:
 
 🎨 Customization:
+
 To add or modify form fields, edit the index.html file.
+
 To change validation rules or messages, edit the script.js file.
+
 To update styles, edit the styles.css file.
 
 Screenshots:
@@ -78,7 +82,9 @@ Screenshots:
 ![Desktop Form Error](/images/desktop-error.jpg)
 
 License:
+
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
+
 Copyright (c) [2024] [Skyler Futrell]
 
 📢 Acknowledgments:
