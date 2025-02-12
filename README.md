@@ -8,8 +8,11 @@ The form includes fields for user first name, last name, email, password, ZIP co
 The application ensures that all required fields are correctly filled out before submission, providing users with clear error messages when necessary.
 
 🚀 Features:
+
 ✅ Client-Side Validation: Real-time validation of form fields using the jQuery Validation plugin.
+
 ✅ Custom Error Messages: Friendly and descriptive error messages for each input field.
+
 ✅ Responsive Design: Styled with CSS to ensure the form looks good on various devices.
 
 📂 Files:
