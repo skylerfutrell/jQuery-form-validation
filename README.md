@@ -1,4 +1,4 @@
-⭐ jQuery Form Validation Web App
+⭐ jQuery Form Validation | Organization Signup Page
 
 ⭐ Created by Skyler Futrell 
 
