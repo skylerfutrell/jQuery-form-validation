@@ -36,13 +36,13 @@ The form includes the following fields:
 
 🏁 Getting Started: 
 
-  Prerequisites:
-  - A modern web browser.
-  - A local or online server to host the files (optional for testing).
+    Prerequisites:
+    - A modern web browser.
+    - A local or online server to host the files (optional for testing).
 
-  Installation:
-  - Download or clone the repository to your local machine.
-  - Ensure the following files are present in the project directory:
+    Installation:
+    - Download or clone the repository to your local machine.
+    - Ensure the following files are present in the project directory:
       - index.html
       - styles.css
       - script.js
@@ -94,9 +94,9 @@ Screenshots:
 
 License:
 
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
+    This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it.
 
-Copyright (c) [2024] [Skyler Futrell]
+    Copyright (c) [2024] [Skyler Futrell]
 
 📢 Acknowledgments:
 [jQuery Validation Plugin Documentation](https://jqueryvalidation.org/)
