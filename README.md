@@ -2,6 +2,9 @@
 
 ⭐ Created by Skyler Futrell 
 
+👀 View on GitHub Pages:
+ https://skylerfutrell.github.io/jQuery-form-validation/
+
 📌 Project Overview:
 This project is a simple webpage that demonstrates how to use the jQuery Validation plugin to validate form fields in real-time.
 The form includes fields for user first name, last name, email, password, ZIP code, age group, and comments.
