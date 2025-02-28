@@ -105,4 +105,7 @@ License:
 [jQuery Validation Plugin Documentation](https://jqueryvalidation.org/)
 
 🔗 Connect With Me
+Website:
+LinkedIn:
+
 
