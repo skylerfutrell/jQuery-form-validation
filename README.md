@@ -104,8 +104,8 @@ License:
 📢 Acknowledgments:
 [jQuery Validation Plugin Documentation](https://jqueryvalidation.org/)
 
-🔗 Connect With Me
-Website:
-LinkedIn:
+🔗 Connect With Me:
+
+[Visit My Website](https://www.futrellstudioportfolio.com/)
 
 
